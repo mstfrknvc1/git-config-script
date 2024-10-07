@@ -1,4 +1,5 @@
 # git-config-script
 ubuntu için
 önce çalıştırma izni vermeniz gerekiyor kod:
-sudo chmod +x "dosya.zh"
+cd git-config-script
+sudo chmod +x script.zh
