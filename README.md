@@ -1,4 +1,4 @@
 # git-config-script
-for ubuntu
+ubuntu için
 önce çalıştırma izni vermeniz gerekiyor kod:
 sudo chmod +x "dosya.zh"
